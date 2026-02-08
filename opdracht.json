@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Yuji Itadori",
+    "description": "Een eerstjaarsstudent aan de Tokyo Metropolitan Jujutsu Technical High School die onbedoeld de vinger van Sukuna inslikte en nu als zijn gastheer fungeert. Hij bezit bovengemiddelde fysieke krachten en leert snel vloektechnieken.",
+    "age": 15,
+    "isActive": true,
+    "birthDate": "2003-06-20",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/yuji_itadori.jpg",
+    "grade": "Grade 1",
+    "hobbies": ["Gamen", "Hardlopen", "Films kijken", "Manga lezen"],
+    "cursedTechnique": {
+      "id": 101,
+      "name": "Divergent Fist",
+      "type": "Physical Enhancement",
+      "isInnate": false,
+      "powerLevel": 85,
+      "description": "Een techniek waarbij Yuji's aanvallen worden versterkt door vervloekte energie",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/divergent_fist.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Megumi Fushiguro",
+    "description": "Een serieus en bedachtzaam eerstjaarsstudent die gespecialiseerd is in Ten Shadows Technique. Hij is de zoon van Toji Fushiguro en een belangrijke bondgenoot van Yuji.",
+    "age": 15,
+    "isActive": true,
+    "birthDate": "2002-12-22",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/megumi_fushiguro.jpg",
+    "grade": "Grade 2",
+    "hobbies": ["Dieren verzorgen", "Lezen", "Strategie bedenken"],
+    "cursedTechnique": {
+      "id": 102,
+      "name": "Ten Shadows Technique",
+      "type": "Shikigami Summoning",
+      "isInnate": true,
+      "powerLevel": 95,
+      "description": "Een techniek die het oproepen van tien verschillende shikigami mogelijk maakt",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/ten_shadows.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nobara Kugisaki",
+    "description": "Een zelfverzekerde en onafhankelijke eerstjaarsstudente afkomstig uit het platteland. Ze gebruikt een hamer en spijkers als wapens in combinatie met haar vloektechniek.",
+    "age": 16,
+    "isActive": true,
+    "birthDate": "2002-08-07",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/nobara_kugisaki.jpg",
+    "grade": "Grade 3",
+    "hobbies": ["Mode", "Shopping", "Nagels lakken", "Fotografie"],
+    "cursedTechnique": {
+      "id": 103,
+      "name": "Straw Doll Technique",
+      "type": "Resonance",
+      "isInnate": true,
+      "powerLevel": 80,
+      "description": "Een techniek die vijanden kan beschadigen via hun lichaamsdelen of persoonlijke bezittingen",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/straw_doll.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Satoru Gojo",
+    "description": "De sterkste jujutsu-tovenaar en leraar aan de Tokyo Jujutsu High. Hij bezit de Six Eyes en de Limitless Cursed Technique, waardoor hij bijna onverslaanbaar is.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1989-12-07",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/satoru_gojo.jpg",
+    "grade": "Special Grade",
+    "hobbies": ["Snoep eten", "Studenten plagen", "Sterke tegenstanders zoeken"],
+    "cursedTechnique": {
+      "id": 104,
+      "name": "Limitless",
+      "type": "Spatial Manipulation",
+      "isInnate": true,
+      "powerLevel": 100,
+      "description": "Een techniek die oneindigheid manipuleert en alle ruimtelijke aanvallen kan neutraliseren",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/limitless.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sukuna",
+    "description": "De Koning der Vloeken, een legendarische en extreem kwaadaardige vloek die nu in Yuji Itadori's lichaam leeft. Hij bezit immense kracht en wreedheid.",
+    "age": 1000,
+    "isActive": true,
+    "birthDate": "1018-??-??",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/sukuna.jpg",
+    "grade": "Special Grade Curse",
+    "hobbies": ["Vernietiging", "Mensen martelen", "Kracht demonstreren"],
+    "cursedTechnique": {
+      "id": 105,
+      "name": "Cleave and Dismantle",
+      "type": "Slashing Attacks",
+      "isInnate": true,
+      "powerLevel": 100,
+      "description": "Technieken die alles in de omgeving kunnen versnijden met onzichtbare sneden",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/cleave_dismantle.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Maki Zenin",
+    "description": "Een tweedejaarsstudent zonder vervloekte energie, maar met uitstekende fysieke vaardigheden en wapengebruik. Ze streeft ernaar het hoofd van de Zenin-clan te worden.",
+    "age": 16,
+    "isActive": true,
+    "birthDate": "2001-04-20",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/maki_zenin.jpg",
+    "grade": "Grade 4",
+    "hobbies": ["Trainen", "Wapens onderhouden", "Clan-politiek bestuderen"],
+    "cursedTechnique": {
+      "id": 106,
+      "name": "Heavenly Restriction",
+      "type": "Physical Enhancement",
+      "isInnate": true,
+      "powerLevel": 90,
+      "description": "Een aangeboren conditie waarbij ze geen vervloekte energie heeft maar extreem versterkte fysieke vaardigheden",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/heavenly_restriction.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Toge Inumaki",
+    "description": "Een tweedejaarsstudent die communiceert via sushi-ingrediënten om zijn Cursed Speech-techniek onder controle te houden. Hij draagt altijd een hoge kraag.",
+    "age": 16,
+    "isActive": true,
+    "birthDate": "2001-10-23",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/toge_inumaki.jpg",
+    "grade": "Semi-Grade 1",
+    "hobbies": ["Koken", "Tekenen", "Stilte waarderen"],
+    "cursedTechnique": {
+      "id": 107,
+      "name": "Cursed Speech",
+      "type": "Verbal Command",
+      "isInnate": true,
+      "powerLevel": 75,
+      "description": "Een techniek waarbij gesproken woorden kracht hebben en bevelen kunnen afdwingen",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/cursed_speech.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Panda",
+    "description": "Een derdejaarsstudent die een gemuteerde peluchebeer is, gemaakt door directeur Yaga. Hij heeft drie zielen/kernen die verschillende persoonlijkheden en vaardigheden bezitten.",
+    "age": 3,
+    "isActive": true,
+    "birthDate": "2018-??-??",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/panda.jpg",
+    "grade": "Grade 2",
+    "hobbies": ["Knuffelen", "Vechten", "Filosoferen"],
+    "cursedTechnique": {
+      "id": 108,
+      "name": "Cores System",
+      "type": "Multiple Personalities",
+      "isInnate": true,
+      "powerLevel": 70,
+      "description": "Een uniek systeem met drie kernen die verschillende vormen en vaardigheden mogelijk maken",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/cores_system.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Kento Nanami",
+    "description": "Een grade 1 jujutsu-tovenaar die tijdelijk terugkeerde naar het jujutsu-wereld na een carrière als salarisman. Hij is rationeel, praktisch en fungeert als mentor voor Yuji.",
+    "age": 27,
+    "isActive": false,
+    "birthDate": "1990-07-03",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/kento_nanami.jpg",
+    "grade": "Grade 1",
+    "hobbies": ["Lezen", "Koffie drinken", "Werken", "Budgetteren"],
+    "cursedTechnique": {
+      "id": 109,
+      "name": "Ratio Technique",
+      "type": "Weak Point Targeting",
+      "isInnate": true,
+      "powerLevel": 88,
+      "description": "Een techniek die een verzwakt punt op tegenstanders creëert op een 7:3 ratio",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/ratio_technique.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mahito",
+    "description": "Een special grade vervloeking geboren uit menselijke haat tegen andere mensen. Hij kan de ziel manipuleren en transformeren, wat hem extreem gevaarlijk maakt.",
+    "age": 0.5,
+    "isActive": true,
+    "birthDate": "2020-??-??",
+    "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/mahito.jpg",
+    "grade": "Special Grade Curse",
+    "hobbies": ["Experimenteren op mensen", "Filosoferen over zielen", "Chaos creëren"],
+    "cursedTechnique": {
+      "id": 110,
+      "name": "Idle Transfiguration",
+      "type": "Soul Manipulation",
+      "isInnate": true,
+      "powerLevel": 95,
+      "description": "Een techniek die de vorm van de ziel kan manipuleren, waardoor het lichaam wordt getransformeerd",
+      "imageUrl": "https://raw.githubusercontent.com/[jouw-gebruikersnaam]/jujutsu-kaisen-api/main/images/idle_transfiguration.png"
+    }
+  }
+]
