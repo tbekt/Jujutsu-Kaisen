@@ -16,7 +16,7 @@
       "isInnate": false,
       "powerLevel": 85,
       "description": "Een techniek waarbij Yuji's aanvallen worden versterkt door vervloekte energie",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Divergent_Fist.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Divergent_Fist.webp"
     }
   },
   {
@@ -36,7 +36,7 @@
       "isInnate": true,
       "powerLevel": 95,
       "description": "Een techniek die het oproepen van tien verschillende shikigami mogelijk maakt",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Ten_Shadows_Technique.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Ten_Shadows_Technique.webp"
     }
   },
   {
@@ -56,7 +56,7 @@
       "isInnate": true,
       "powerLevel": 80,
       "description": "Een techniek die vijanden kan beschadigen via hun lichaamsdelen of persoonlijke bezittingen",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Straw_Doll_Technique.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Straw_Doll_Technique.webp"
     }
   },
   {
@@ -76,7 +76,7 @@
       "isInnate": true,
       "powerLevel": 100,
       "description": "Een techniek die oneindigheid manipuleert en alle ruimtelijke aanvallen kan neutraliseren",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Limitless.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Limitless.webp"
     }
   },
   {
@@ -96,7 +96,7 @@
       "isInnate": true,
       "powerLevel": 100,
       "description": "Technieken die alles in de omgeving kunnen versnijden met onzichtbare sneden",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Dismantle.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Dismantle.webp"
     }
   },
   {
@@ -116,7 +116,7 @@
       "isInnate": true,
       "powerLevel": 90,
       "description": "Een aangeboren conditie waarbij ze geen vervloekte energie heeft maar extreem versterkte fysieke vaardigheden",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Heavenly_Restriction.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Heavenly_Restriction.webp"
     }
   },
   {
@@ -136,7 +136,7 @@
       "isInnate": true,
       "powerLevel": 75,
       "description": "Een techniek waarbij gesproken woorden kracht hebben en bevelen kunnen afdwingen",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Cursed_Speech.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Cursed_Speech.webp"
     }
   },
   {
@@ -156,7 +156,7 @@
       "isInnate": true,
       "powerLevel": 70,
       "description": "Een uniek systeem met drie kernen die verschillende vormen en vaardigheden mogelijk maken",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Cores_System.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Cores_System.webp"
     }
   },
   {
@@ -176,7 +176,7 @@
       "isInnate": true,
       "powerLevel": 88,
       "description": "Een techniek die een verzwakt punt op tegenstanders creëert op een 7:3 ratio",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Ratio_Technique.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Ratio_Technique.webp"
     }
   },
   {
@@ -196,7 +196,7 @@
       "isInnate": true,
       "powerLevel": 95,
       "description": "Een techniek die de vorm van de ziel kan manipuleren, waardoor het lichaam wordt getransformeerd",
-      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen-api/blob/main/Idle_Transfiguration.webp?raw=true"
+      "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Idle_Transfiguration.webp"
     }
   }
 ]
