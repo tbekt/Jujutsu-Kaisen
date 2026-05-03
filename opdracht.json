@@ -134,7 +134,7 @@
     "age": 16,
     "isActive": true,
     "birthDate": "2001-04-20",
-    "imageUrl": "https://github.com/tbekt/Jujutsu-Kaisen/blob/main/Maki_Zenin28Anime_4%2529.webp?raw=true",
+    "imageUrl": "https://raw.githubusercontent.com/tbekt/Jujutsu-Kaisen/refs/heads/main/Maki_Zen28Anime_4%2529.webp",
     "grade": "Grade 4",
     "hobbies": ["Trainen"],
     "cursedTechniques": [
